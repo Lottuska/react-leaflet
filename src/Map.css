@@ -1,0 +1,57 @@
+#Container {
+  height: calc(100vh - 124.33px - 64px);
+  font-family: 'Quicksand', sans-serif;
+  color: #000000;
+  margin: 0px 20px;
+}
+.PopupContent {
+  margin: 0px;
+  padding: 0px;
+}
+.PopupContent .row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.PopupContent h2 {
+  font-size: 12pt;
+}
+.PopupContent p {
+  font-size: 10pt;
+  margin: 0px !important;
+  padding: 2px 0px !important;
+}
+.material-symbols-outlined.heart {
+  font-size: 30px;
+  color: #b6b6b6;
+  padding: 0px 10px 0px 0px;
+  cursor: pointer;
+}
+.material-symbols-outlined.heart.active {
+  font-size: 30px;
+  color: #af1c1c;
+  padding: 0px 10px 0px 0px;
+  cursor: pointer;
+}
+.material-symbols-outlined.location {
+  font-size: 35px;
+  color: #334272;
+}
+.material-symbols-outlined.location-favourite {
+  font-size: 35px;
+  color: #af1c1c;
+}
+
+@media screen and (max-width: 700px) {
+  #Container {
+    height: calc(100vh - 54.6px);
+    margin: 0px;
+  }
+}
+@media screen and (max-width: 285px) {
+  #Container {
+    height: calc(100vh - 80.6px);
+    margin: 0px;
+  }
+}

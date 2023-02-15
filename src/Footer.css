@@ -1,0 +1,34 @@
+.info-symbol {
+  font-size: 48px;
+  position: fixed;
+  z-index: 100001;
+  bottom: 22px;
+  right: 10px;
+  cursor: pointer;
+}
+.description p {
+  font-size: 8pt;
+  padding: 10px;
+  margin: 8px;
+}
+.description a {
+  color: #0078a8;
+}
+
+/* Mobile footer */
+.description.mobile {
+  position: fixed;
+  margin: 10px 68px 22px 15px;
+  border-radius: 8px;
+  z-index: 100000;
+  bottom: 0px;
+  text-align: left;
+  color: #ffffff;
+  background-color: rgb(0,0,0,0.7);
+}
+.description.mobile p {
+  font-size: 10pt;
+}
+.description.mobile a {
+  color: #aad3df;
+}

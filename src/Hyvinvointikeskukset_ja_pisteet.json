@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "name": "Hyvinvointikeskukset_ja_pisteet",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3067"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 11,
+        "Nimi": "Yli-Iin hyvinvointipiste",
+        "Osoite": "Kirkkokuja 2",
+        "Postinro": 91200,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/terveyspalvelut\/yli-ii",
+        "Hyvinvoint": "Itäinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          446074.51,
+          7250294.258995677344501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 1,
+        "Nimi": "Haukiputaan hyvinvointikeskus",
+        "Osoite": "Simppulantie 15",
+        "Postinro": 90830,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/sosiaali-ja-terveyspalvelut\/haukiputaan-hyvinvointikeskus",
+        "Hyvinvoint": "Pohjoinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          423152.809999999240972,
+          7228547.827995589002967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 3,
+        "Nimi": "Kiimingin hyvinvointikeskus",
+        "Osoite": "Terveystie 1",
+        "Postinro": 90900,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/sosiaali-ja-terveyspalvelut\/kiimingin-hyvinvointikeskus",
+        "Hyvinvoint": "Itäinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          442496.060999999695923,
+          7223389.515995710156858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 5,
+        "Nimi": "Myllyojan toimipiste (Kontinkankaan hyvinvointikeskus)",
+        "Osoite": "Karvarinaukio 16",
+        "Postinro": 90650,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/sosiaali-ja-terveyspalvelut\/myllyojan-hyvinvointikeskus",
+        "Hyvinvoint": "Itäinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          431806.89499999944,
+          7211268.715995687060058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 8,
+        "Nimi": "Rajakylän hyvinvointipiste",
+        "Osoite": "Ruiskukkatie 2",
+        "Postinro": 90580,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/terveyspalvelut\/rajakyla",
+        "Hyvinvoint": "Pohjoinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          425768.694999999250285,
+          7216809.897995636798441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 12,
+        "Nimi": "Ylikiimingin hyvinvointipiste",
+        "Osoite": "Vesaisenlinnantie 2",
+        "Postinro": 91300,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/terveyspalvelut\/ylikiiminki",
+        "Hyvinvoint": "Itäinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          459578.98,
+          7212139.021995747461915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 6,
+        "Nimi": "Tuiran hyvinvointikeskus",
+        "Osoite": "Kangastie 16",
+        "Postinro": 90500,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/sosiaali-ja-terveyspalvelut\/tuiran-hyvinvointikeskus",
+        "Hyvinvoint": "Pohjoinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          427556.844209575967398,
+          7212323.556805292144418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 4,
+        "Nimi": "Kontinkankaan hyvinvointikeskus",
+        "Osoite": "Kajaanintie 46A ja 48",
+        "Postinro": 90220,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/sosiaali-ja-terveyspalvelut\/kontinkankaan-hyvinvointikeskus",
+        "Hyvinvoint": "Keskinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          429950.15012579318136,
+          7210432.535964925773442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 9,
+        "Nimi": "Hyvinvointipiste Välke (Höyhtyä)",
+        "Osoite": "Latokartanontie 1",
+        "Postinro": 90150,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/terveyspalvelut\/hoyhtya",
+        "Hyvinvoint": "Keskinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          428587.90399999928,
+          7209012.426995668560266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 2,
+        "Nimi": "Kaakkurin hyvinvointikeskus",
+        "Osoite": "Pesätie 11",
+        "Postinro": 90420,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/sosiaali-ja-terveyspalvelut\/kaakkurin-hyvinvointikeskus",
+        "Hyvinvoint": "Eteläinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          430642.218999999458902,
+          7204390.849995691329241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 7,
+        "Nimi": "Oulunsalon terveysasema",
+        "Osoite": "Kauppiaantie 10",
+        "Postinro": 90460,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/terveyspalvelut\/oulunsalo",
+        "Hyvinvoint": "Eteläinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          424776.340999999141786,
+          7202129.500995648093522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 10,
+        "Nimi": "Keskustan hyvinvointipiste",
+        "Osoite": "Torikatu 21",
+        "Postinro": 90100,
+        "Url": "https:\/\/www.ouka.fi\/oulu\/terveyspalvelut\/keskusta",
+        "Hyvinvoint": "Keskinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          427737.017110315908212,
+          7210560.539676416665316
+        ]
+      }
+    }
+  ]
+}
